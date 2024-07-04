@@ -72,11 +72,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.8",
-  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ Sultan Baloch 』```", //*『sᴜʙsᴄʀɪʙᴇ • Sultan ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "sᴜʜᴀɪʟ-ᴍᴅ",
+  botname : process.env.BOT_NAME  || "Sultan Baloch",
   ownername:process.env.OWNER_NAME|| "Sultan Baloch",
 
 
